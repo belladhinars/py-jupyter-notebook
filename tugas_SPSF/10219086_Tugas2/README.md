@@ -1,4 +1,4 @@
-## Dinda Fahrila Suci R - 10219035 - PR 2 Simulasi dan Pemodelan Sistem Fisis
+## Rossa Bella - 10219086 - PR 2 Simulasi dan Pemodelan Sistem Fisis
 ## Soal PR 2 SPSF
 ![alt text](https://github.com/dindafahrila/python-jupyter-notebook/blob/main/tugas_spsf/10219035_tugas2/Soal.png)
 
